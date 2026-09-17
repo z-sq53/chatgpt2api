@@ -1,0 +1,4 @@
+interface:
+  display_name: "ChatGPT2API Image"
+  short_description: "通过素材库 GPT 生成图片或使用产品参考图进行图生图，并保存到本地"
+  default_prompt: "Use $chatgpt2api-image to generate or edit an image using my prompt and any provided product references, then save it locally."
